@@ -1,1 +1,1 @@
-# Comparing_the_Healthcare_Outcomes_of_Nepal
+Comparing the health outcome of Nepal based on the geographic location of available health care faiclities in two provinces,Bagmati (highly developed) and Karnali (least developed) provinces. There are also other factors such as Total population,	Estimated deaths,	Under-five mortality,	Adult mortality and	Life expectancy rates.
